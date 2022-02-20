@@ -1,5 +1,5 @@
 {
-  "round":{
+  "roundNumber":{
     "0":0,
     "1":0,
     "2":1,
@@ -80,7 +80,7 @@
     "23":"S\u00e3o Paulo",
     "24":"Yas Island"
   },
-  "officialName":{
+  "officialEventName":{
     "0":"FORMULA 1 PRE-SEASON TRACK SESSION 2022",
     "1":"FORMULA 1 ARAMCO PRE-SEASON TESTING 2022",
     "2":"FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2022",
@@ -107,7 +107,7 @@
     "23":"FORMULA 1 HEINEKEN GRANDE PR\u00caMIO DE S\u00c3O PAULO 2022",
     "24":"FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2022"
   },
-  "date":{
+  "eventDate":{
     "0":"2022-02-23T09:00:00",
     "1":"2022-03-10T10:00:00",
     "2":"2022-03-18T15:00:00",
@@ -134,7 +134,7 @@
     "23":"2022-11-11T00:00:00",
     "24":"2022-11-18T14:00:00"
   },
-  "name":{
+  "eventName":{
     "0":"Pre-Season Track Session",
     "1":"Pre-Season Test",
     "2":"Bahrain Grand Prix",
@@ -161,7 +161,7 @@
     "23":"S\u00e3o Paulo Grand Prix",
     "24":"Abu Dhabi Grand Prix"
   },
-  "format":{
+  "eventFormat":{
     "0":"testing",
     "1":"testing",
     "2":"conventional",

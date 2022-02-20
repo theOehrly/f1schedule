@@ -1,5 +1,5 @@
 {
-  "round":{
+  "roundNumber":{
     "0":0,
     "1":0,
     "2":1,
@@ -62,7 +62,7 @@
     "17":"Sakhir",
     "18":"Abu Dhabi"
   },
-  "officialName":{
+  "officialEventName":{
     "0":"FORMULA 1 PRE-SEASON TESTING 2020",
     "1":"FORMULA 1 PRE-SEASON TESTING 2020",
     "2":"FORMULA 1 ROLEX GROSSER PREIS VON \u00d6STERREICH 2020",
@@ -83,7 +83,7 @@
     "17":"FORMULA 1 ROLEX SAKHIR GRAND PRIX 2020",
     "18":"FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2020"
   },
-  "date":{
+  "eventDate":{
     "0":"2020-02-21",
     "1":"2020-02-28",
     "2":"2020-07-05",
@@ -104,7 +104,7 @@
     "17":"2020-12-06",
     "18":"2020-12-13"
   },
-  "name":{
+  "eventName":{
     "0":"Pre-Season Test 1",
     "1":"Pre-Season Test 2",
     "2":"Austrian Grand Prix",
@@ -125,7 +125,7 @@
     "17":"Sakhir Grand Prix",
     "18":"Abu Dhabi Grand Prix"
   },
-  "format":{
+  "eventFormat":{
     "0":"testing",
     "1":"testing",
     "2":"conventional",
