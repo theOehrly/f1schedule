@@ -1,5 +1,5 @@
 {
-  "roundNumber":{
+  "round_number":{
     "0":0,
     "1":1,
     "2":2,
@@ -74,7 +74,7 @@
     "21":"Jeddah",
     "22":"Abu Dhabi"
   },
-  "officialEventName":{
+  "official_event_name":{
     "0":"FORMULA 1 ARAMCO PRE-SEASON TESTING 2021",
     "1":"FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021",
     "2":"FORMULA 1 PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL\u2019EMILIA ROMAGNA 2021",
@@ -99,7 +99,7 @@
     "21":"FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2021",
     "22":"FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021"
   },
-  "eventDate":{
+  "event_date":{
     "0":"2021-03-14",
     "1":"2021-03-28",
     "2":"2021-04-18",
@@ -124,7 +124,7 @@
     "21":"2021-12-05",
     "22":"2021-12-12"
   },
-  "eventName":{
+  "event_name":{
     "0":"Pre-Season Test",
     "1":"Bahrain Grand Prix",
     "2":"Emilia Romagna Grand Prix",
@@ -149,7 +149,7 @@
     "21":"Saudi Arabian Grand Prix",
     "22":"Abu Dhabi Grand Prix"
   },
-  "eventFormat":{
+  "event_format":{
     "0":"testing",
     "1":"conventional",
     "2":"conventional",
@@ -199,7 +199,7 @@
     "21":"Practice 1",
     "22":"Practice 1"
   },
-  "session1Date":{
+  "session1_date":{
     "0":"2021-03-12",
     "1":"2021-03-26",
     "2":"2021-04-16",
@@ -249,7 +249,7 @@
     "21":"Practice 2",
     "22":"Practice 2"
   },
-  "session2Date":{
+  "session2_date":{
     "0":"2021-03-13",
     "1":"2021-03-26",
     "2":"2021-04-16",
@@ -299,7 +299,7 @@
     "21":"Practice 3",
     "22":"Practice 3"
   },
-  "session3Date":{
+  "session3_date":{
     "0":"2021-03-14",
     "1":"2021-03-27",
     "2":"2021-04-17",
@@ -349,7 +349,7 @@
     "21":"Qualifying",
     "22":"Qualifying"
   },
-  "session4Date":{
+  "session4_date":{
     "0":null,
     "1":"2021-03-27",
     "2":"2021-04-17",
@@ -399,7 +399,7 @@
     "21":"Race",
     "22":"Race"
   },
-  "session5Date":{
+  "session5_date":{
     "0":null,
     "1":"2021-03-28",
     "2":"2021-04-18",

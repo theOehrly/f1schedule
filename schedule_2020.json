@@ -1,5 +1,5 @@
 {
-  "roundNumber":{
+  "round_number":{
     "0":0,
     "1":0,
     "2":1,
@@ -62,7 +62,7 @@
     "17":"Sakhir",
     "18":"Abu Dhabi"
   },
-  "officialEventName":{
+  "official_event_name":{
     "0":"FORMULA 1 PRE-SEASON TESTING 2020",
     "1":"FORMULA 1 PRE-SEASON TESTING 2020",
     "2":"FORMULA 1 ROLEX GROSSER PREIS VON \u00d6STERREICH 2020",
@@ -83,7 +83,7 @@
     "17":"FORMULA 1 ROLEX SAKHIR GRAND PRIX 2020",
     "18":"FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2020"
   },
-  "eventDate":{
+  "event_date":{
     "0":"2020-02-21",
     "1":"2020-02-28",
     "2":"2020-07-05",
@@ -104,7 +104,7 @@
     "17":"2020-12-06",
     "18":"2020-12-13"
   },
-  "eventName":{
+  "event_name":{
     "0":"Pre-Season Test 1",
     "1":"Pre-Season Test 2",
     "2":"Austrian Grand Prix",
@@ -125,7 +125,7 @@
     "17":"Sakhir Grand Prix",
     "18":"Abu Dhabi Grand Prix"
   },
-  "eventFormat":{
+  "event_format":{
     "0":"testing",
     "1":"testing",
     "2":"conventional",
@@ -167,7 +167,7 @@
     "17":"Practice 1",
     "18":"Practice 1"
   },
-  "session1Date":{
+  "session1_date":{
     "0":"2020-02-19",
     "1":"2020-02-26",
     "2":"2020-07-03",
@@ -209,7 +209,7 @@
     "17":"Practice 2",
     "18":"Practice 2"
   },
-  "session2Date":{
+  "session2_date":{
     "0":"2020-02-20",
     "1":"2020-02-27",
     "2":"2020-07-03",
@@ -251,7 +251,7 @@
     "17":"Practice 3",
     "18":"Practice 3"
   },
-  "session3Date":{
+  "session3_date":{
     "0":"2020-02-21",
     "1":"2020-02-28",
     "2":"2020-07-04",
@@ -293,7 +293,7 @@
     "17":"Qualifying",
     "18":"Qualifying"
   },
-  "session4Date":{
+  "session4_date":{
     "0":null,
     "1":null,
     "2":"2020-07-04",
@@ -335,7 +335,7 @@
     "17":"Race",
     "18":"Race"
   },
-  "session5Date":{
+  "session5_date":{
     "0":null,
     "1":null,
     "2":"2020-07-05",

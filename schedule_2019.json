@@ -1,5 +1,5 @@
 {
-  "roundNumber":{
+  "round_number":{
     "0":1,
     "1":2,
     "2":3,
@@ -68,7 +68,7 @@
     "19":"S\u00e3o Paulo",
     "20":"Abu Dhabi"
   },
-  "officialEventName":{
+  "official_event_name":{
     "0":"FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2019",
     "1":"FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2019",
     "2":"FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2019",
@@ -91,7 +91,7 @@
     "19":"FORMULA 1 HEINEKEN GRANDE PR\u00caMIO DO BRASIL 2019",
     "20":"FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2019"
   },
-  "eventDate":{
+  "event_date":{
     "0":"2019-03-17",
     "1":"2019-03-31",
     "2":"2019-04-14",
@@ -114,7 +114,7 @@
     "19":"2019-11-17",
     "20":"2019-12-01"
   },
-  "eventName":{
+  "event_name":{
     "0":"Australian Grand Prix",
     "1":"Bahrain Grand Prix",
     "2":"Chinese Grand Prix",
@@ -137,7 +137,7 @@
     "19":"Brazilian Grand Prix",
     "20":"Abu Dhabi Grand Prix"
   },
-  "eventFormat":{
+  "event_format":{
     "0":"conventional",
     "1":"conventional",
     "2":"conventional",
@@ -183,7 +183,7 @@
     "19":"Practice 1",
     "20":"Practice 1"
   },
-  "session1Date":{
+  "session1_date":{
     "0":"2019-03-15",
     "1":"2019-03-29",
     "2":"2019-04-12",
@@ -229,7 +229,7 @@
     "19":"Practice 2",
     "20":"Practice 2"
   },
-  "session2Date":{
+  "session2_date":{
     "0":"2019-03-15",
     "1":"2019-03-29",
     "2":"2019-04-12",
@@ -275,7 +275,7 @@
     "19":"Practice 3",
     "20":"Practice 3"
   },
-  "session3Date":{
+  "session3_date":{
     "0":"2019-03-16",
     "1":"2019-03-30",
     "2":"2019-04-13",
@@ -321,7 +321,7 @@
     "19":"Qualifying",
     "20":"Qualifying"
   },
-  "session4Date":{
+  "session4_date":{
     "0":"2019-03-16",
     "1":"2019-03-30",
     "2":"2019-04-13",
@@ -367,7 +367,7 @@
     "19":"Race",
     "20":"Race"
   },
-  "session5Date":{
+  "session5_date":{
     "0":"2019-03-17",
     "1":"2019-03-31",
     "2":"2019-04-14",
