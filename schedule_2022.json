@@ -1,5 +1,5 @@
 {
-  "roundNumber":{
+  "round_number":{
     "0":0,
     "1":0,
     "2":1,
@@ -23,8 +23,7 @@
     "20":19,
     "21":20,
     "22":21,
-    "23":22,
-    "24":23
+    "23":22
   },
   "country":{
     "0":"Spain",
@@ -45,13 +44,12 @@
     "15":"Belgium",
     "16":"Netherlands",
     "17":"Italy",
-    "18":"Russia",
-    "19":"Singapore",
-    "20":"Japan",
-    "21":"United States",
-    "22":"Mexico",
-    "23":"Brazil",
-    "24":"Abu Dhabi"
+    "18":"Singapore",
+    "19":"Japan",
+    "20":"United States",
+    "21":"Mexico",
+    "22":"Brazil",
+    "23":"Abu Dhabi"
   },
   "location":{
     "0":"Spain",
@@ -72,15 +70,14 @@
     "15":"Spa-Francorchamps",
     "16":"Zandvoort",
     "17":"Monza",
-    "18":"Sochi",
-    "19":"Marina Bay",
-    "20":"Suzuka",
-    "21":"Austin",
-    "22":"Mexico City",
-    "23":"S\u00e3o Paulo",
-    "24":"Yas Island"
+    "18":"Marina Bay",
+    "19":"Suzuka",
+    "20":"Austin",
+    "21":"Mexico City",
+    "22":"S\u00e3o Paulo",
+    "23":"Yas Island"
   },
-  "officialEventName":{
+  "official_event_name":{
     "0":"FORMULA 1 PRE-SEASON TRACK SESSION 2022",
     "1":"FORMULA 1 ARAMCO PRE-SEASON TESTING 2022",
     "2":"FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2022",
@@ -99,15 +96,14 @@
     "15":"FORMULA 1 ROLEX BELGIAN GRAND PRIX 2022",
     "16":"FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2022",
     "17":"FORMULA 1 PIRELLI GRAN PREMIO D\u2019ITALIA 2022",
-    "18":"FORMULA 1 VTB RUSSIAN GRAND PRIX 2022",
-    "19":"FORMULA 1 SINGAPORE GRAND PRIX 2022",
-    "20":"FORMULA 1 JAPANESE GRAND PRIX 2022",
-    "21":"FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2022",
-    "22":"FORMULA 1 GRAN PREMIO DE LA CIUDAD DE M\u00c9XICO 2022",
-    "23":"FORMULA 1 HEINEKEN GRANDE PR\u00caMIO DE S\u00c3O PAULO 2022",
-    "24":"FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2022"
+    "18":"FORMULA 1 SINGAPORE GRAND PRIX 2022",
+    "19":"FORMULA 1 JAPANESE GRAND PRIX 2022",
+    "20":"FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2022",
+    "21":"FORMULA 1 GRAN PREMIO DE LA CIUDAD DE M\u00c9XICO 2022",
+    "22":"FORMULA 1 HEINEKEN GRANDE PR\u00caMIO DE S\u00c3O PAULO 2022",
+    "23":"FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2022"
   },
-  "eventDate":{
+  "event_date":{
     "0":"2022-02-23T09:00:00",
     "1":"2022-03-10T10:00:00",
     "2":"2022-03-18T15:00:00",
@@ -126,15 +122,14 @@
     "15":"2022-08-26T14:00:00",
     "16":"2022-09-02T14:00:00",
     "17":"2022-09-09T14:00:00",
-    "18":"2022-09-23T13:00:00",
-    "19":"2022-09-30T18:00:00",
-    "20":"2022-10-07T13:00:00",
-    "21":"2022-10-21T14:00:00",
-    "22":"2022-10-28T13:00:00",
-    "23":"2022-11-11T00:00:00",
-    "24":"2022-11-18T14:00:00"
+    "18":"2022-09-30T18:00:00",
+    "19":"2022-10-07T13:00:00",
+    "20":"2022-10-21T14:00:00",
+    "21":"2022-10-28T13:00:00",
+    "22":"2022-11-11T00:00:00",
+    "23":"2022-11-18T14:00:00"
   },
-  "eventName":{
+  "event_name":{
     "0":"Pre-Season Track Session",
     "1":"Pre-Season Test",
     "2":"Bahrain Grand Prix",
@@ -153,15 +148,14 @@
     "15":"Belgian Grand Prix",
     "16":"Dutch Grand Prix",
     "17":"Italian Grand Prix",
-    "18":"Russian Grand Prix",
-    "19":"Singapore Grand Prix",
-    "20":"Japanese Grand Prix",
-    "21":"United States Grand Prix",
-    "22":"Mexico City Grand Prix",
-    "23":"S\u00e3o Paulo Grand Prix",
-    "24":"Abu Dhabi Grand Prix"
+    "18":"Singapore Grand Prix",
+    "19":"Japanese Grand Prix",
+    "20":"United States Grand Prix",
+    "21":"Mexico City Grand Prix",
+    "22":"S\u00e3o Paulo Grand Prix",
+    "23":"Abu Dhabi Grand Prix"
   },
-  "eventFormat":{
+  "event_format":{
     "0":"testing",
     "1":"testing",
     "2":"conventional",
@@ -185,8 +179,7 @@
     "20":"conventional",
     "21":"conventional",
     "22":"conventional",
-    "23":"conventional",
-    "24":"conventional"
+    "23":"conventional"
   },
   "session1":{
     "0":"Practice 1",
@@ -212,10 +205,9 @@
     "20":"Practice 1",
     "21":"Practice 1",
     "22":"Practice 1",
-    "23":"Practice 1",
-    "24":"Practice 1"
+    "23":"Practice 1"
   },
-  "session1Date":{
+  "session1_date":{
     "0":"2022-02-23T09:00:00",
     "1":"2022-03-10T10:00:00",
     "2":"2022-03-18T15:00:00",
@@ -234,13 +226,12 @@
     "15":"2022-08-26T14:00:00",
     "16":"2022-09-02T14:00:00",
     "17":"2022-09-09T14:00:00",
-    "18":"2022-09-23T13:00:00",
-    "19":"2022-09-30T18:00:00",
-    "20":"2022-10-07T13:00:00",
-    "21":"2022-10-21T14:00:00",
-    "22":"2022-10-28T13:00:00",
-    "23":"",
-    "24":"2022-11-18T14:00:00"
+    "18":"2022-09-30T18:00:00",
+    "19":"2022-10-07T13:00:00",
+    "20":"2022-10-21T14:00:00",
+    "21":"2022-10-28T13:00:00",
+    "22":"",
+    "23":"2022-11-18T14:00:00"
   },
   "session2":{
     "0":"Practice 2",
@@ -266,10 +257,9 @@
     "20":"Practice 2",
     "21":"Practice 2",
     "22":"Practice 2",
-    "23":"Practice 2",
-    "24":"Practice 2"
+    "23":"Practice 2"
   },
-  "session2Date":{
+  "session2_date":{
     "0":"2022-02-24T09:00:00",
     "1":"2022-03-11T10:00:00",
     "2":"2022-03-18T18:00:00",
@@ -288,13 +278,12 @@
     "15":"2022-08-26T17:00:00",
     "16":"2022-09-02T17:00:00",
     "17":"2022-09-09T17:00:00",
-    "18":"2022-09-23T16:00:00",
-    "19":"2022-09-30T21:00:00",
-    "20":"2022-10-07T16:00:00",
-    "21":"2022-10-21T17:00:00",
-    "22":"2022-10-28T16:00:00",
-    "23":"",
-    "24":"2022-11-18T17:00:00"
+    "18":"2022-09-30T21:00:00",
+    "19":"2022-10-07T16:00:00",
+    "20":"2022-10-21T17:00:00",
+    "21":"2022-10-28T16:00:00",
+    "22":"",
+    "23":"2022-11-18T17:00:00"
   },
   "session3":{
     "0":"Practice 3",
@@ -320,10 +309,9 @@
     "20":"Practice 3",
     "21":"Practice 3",
     "22":"Practice 3",
-    "23":"Practice 3",
-    "24":"Practice 3"
+    "23":"Practice 3"
   },
-  "session3Date":{
+  "session3_date":{
     "0":"2022-02-25T09:00:00",
     "1":"2022-03-12T10:00:00",
     "2":"2022-03-19T15:00:00",
@@ -342,13 +330,12 @@
     "15":"2022-08-27T13:00:00",
     "16":"2022-09-03T13:00:00",
     "17":"2022-09-10T13:00:00",
-    "18":"2022-09-24T13:00:00",
-    "19":"2022-10-01T18:00:00",
-    "20":"2022-10-08T13:00:00",
-    "21":"2022-10-22T14:00:00",
-    "22":"2022-10-29T12:00:00",
-    "23":"",
-    "24":"2022-11-19T15:00:00"
+    "18":"2022-10-01T18:00:00",
+    "19":"2022-10-08T13:00:00",
+    "20":"2022-10-22T14:00:00",
+    "21":"2022-10-29T12:00:00",
+    "22":"",
+    "23":"2022-11-19T15:00:00"
   },
   "session4":{
     "0":null,
@@ -374,10 +361,9 @@
     "20":"Qualifying",
     "21":"Qualifying",
     "22":"Qualifying",
-    "23":"Qualifying",
-    "24":"Qualifying"
+    "23":"Qualifying"
   },
-  "session4Date":{
+  "session4_date":{
     "0":null,
     "1":null,
     "2":"2022-03-19T18:00:00",
@@ -396,13 +382,12 @@
     "15":"2022-08-27T16:00:00",
     "16":"2022-09-03T16:00:00",
     "17":"2022-09-10T16:00:00",
-    "18":"2022-09-24T16:00:00",
-    "19":"2022-10-01T21:00:00",
-    "20":"2022-10-08T16:00:00",
-    "21":"2022-10-22T17:00:00",
-    "22":"2022-10-29T15:00:00",
-    "23":"",
-    "24":"2022-11-19T18:00:00"
+    "18":"2022-10-01T21:00:00",
+    "19":"2022-10-08T16:00:00",
+    "20":"2022-10-22T17:00:00",
+    "21":"2022-10-29T15:00:00",
+    "22":"",
+    "23":"2022-11-19T18:00:00"
   },
   "session5":{
     "0":null,
@@ -428,10 +413,9 @@
     "20":"Race",
     "21":"Race",
     "22":"Race",
-    "23":"Race",
-    "24":"Race"
+    "23":"Race"
   },
-  "session5Date":{
+  "session5_date":{
     "0":null,
     "1":null,
     "2":"2022-03-20T18:00:00",
@@ -450,12 +434,37 @@
     "15":"2022-08-28T15:00:00",
     "16":"2022-09-04T15:00:00",
     "17":"2022-09-11T15:00:00",
-    "18":"2022-09-25T14:00:00",
-    "19":"2022-10-02T20:00:00",
-    "20":"2022-10-09T14:00:00",
-    "21":"2022-10-23T14:00:00",
-    "22":"2022-10-30T14:00:00",
-    "23":"2022-11-13T15:00:00",
-    "24":"2022-11-20T17:00:00"
+    "18":"2022-10-02T20:00:00",
+    "19":"2022-10-09T14:00:00",
+    "20":"2022-10-23T14:00:00",
+    "21":"2022-10-30T14:00:00",
+    "22":"2022-11-13T15:00:00",
+    "23":"2022-11-20T17:00:00"
+  },
+  "f1_api_support":{
+    "0":false,
+    "1":true,
+    "2":true,
+    "3":true,
+    "4":true,
+    "5":true,
+    "6":true,
+    "7":true,
+    "8":true,
+    "9":true,
+    "10":true,
+    "11":true,
+    "12":true,
+    "13":true,
+    "14":true,
+    "15":true,
+    "16":true,
+    "17":true,
+    "18":true,
+    "19":true,
+    "20":true,
+    "21":true,
+    "22":true,
+    "23":true
   }
 }
