@@ -33,8 +33,8 @@
     "3":"Australia",
     "4":"Japan",
     "5":"China",
-    "6":"United States",
-    "7":"Italy",
+    "6":"Miami",
+    "7":"Emilia-Romagna",
     "8":"Monaco",
     "9":"Canada",
     "10":"Spain",
@@ -49,7 +49,7 @@
     "19":"United States",
     "20":"Mexico",
     "21":"Brazil",
-    "22":"United States",
+    "22":"Las Vegas",
     "23":"Qatar",
     "24":"Abu Dhabi"
   },
@@ -90,7 +90,7 @@
     "6":"FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024",
     "7":"FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2024",
     "8":"FORMULA 1 GRAND PRIX DE MONACO 2024",
-    "9":"FORMULA 1 AWS GRAND PRIX DU CANADA 2024",
+    "9":"FORMULA 1 GRAND PRIX DU CANADA 2024",
     "10":"FORMULA 1 ARAMCO GRAN PREMIO DE ESPA\u00d1A 2024",
     "11":"FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024",
     "12":"FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024",
@@ -108,7 +108,7 @@
     "24":"FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024"
   },
   "event_date":{
-    "0":"2024-02-23T19:00:00",
+    "0":"2024-02-23T19:30:00",
     "1":"2024-03-02T20:00:00",
     "2":"2024-03-09T22:00:00",
     "3":"2024-03-24T17:00:00",
@@ -130,7 +130,7 @@
     "19":"2024-10-20T16:00:00",
     "20":"2024-10-27T16:00:00",
     "21":"2024-11-03T16:00:00",
-    "22":"2024-11-23T23:59:59",
+    "22":"2024-11-24T00:00:00",
     "23":"2024-12-01T22:00:00",
     "24":"2024-12-08T19:00:00"
   },
